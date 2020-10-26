@@ -76,7 +76,7 @@ Ls
 
 # echo I ❤ Mr_Robot | lolcat
 
-![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/mr_robot.PNG?raw=true)
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/shiny.gif?raw=true)
 
  
  ولو حبينا نكبر الاحرف بشكل اعتيادي ونجعل المخرجات ايضا ملونه بالوان زاهية كما تعودنا
