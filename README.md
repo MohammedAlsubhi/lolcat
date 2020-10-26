@@ -37,6 +37,14 @@ Ls
 
 ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/lolcat.PNG?raw=true)
 
+ لو حبينا نستعلم عن التاريخ بالوان قوس قزح المفرحة
+ 
+ # date | lolcat
+ 
+ كل ما نستخدم الامر كل مره يعطينا لون جديد
+ 
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/date.PNG?raw=true)
+
 
 
  اتمني الجميع يطبق معايه وكل واحد يشوف الالوان علي اسماء المجلدات كيف اصبحت   جدا مبهجة وممتعة
