@@ -92,7 +92,7 @@ Ls
 فعليك كتابة هذا الامر معي
 
 
-# echo I ❤ Tecmint | lolcat -a -d 500
+# echo I ❤ Mr_Robot | lolcat -a -d 500
 
 echo بمعني اطبع 
 
@@ -101,6 +101,8 @@ echo بمعني اطبع
 -a -d هذه رموز الاوان المستخدمه وقابله للزياده او التغير
 
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/shainy.PNG?raw=true)
+ 
+ 
 
 
 
