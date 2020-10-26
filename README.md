@@ -1,14 +1,11 @@
-# What?
 
-![](https://github.com/busyloop/lolcat/raw/master/ass/nom.jpg)
-
-## Screenshot
-
-![](https://github.com/busyloop/lolcat/raw/master/ass/screenshot.png)
 
 ## Installation التنصيب
-كيفية تثبيت حزمة "figlet"
+
+كيفية تثبيت حزمة"figlet"
+
 sudo apt-get install figlet
+
 git clone https://github.com/MohammedAlsubhi/lolcat.git
 
  Kali Linux هذه الاداة سطر من الاوامر لإخراج قوس قزح من الالوان في بيئة الكالي لنكس 
