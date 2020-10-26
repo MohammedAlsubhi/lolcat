@@ -213,7 +213,7 @@ bash.bashrc
 تكبير للبنر بس يكون ملون 
 
 
-figlet  "Mr_Robot" | lolcat
+# figlet  "Mr_Robot" | lolcat
 
 
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/2.gif?raw=true)
