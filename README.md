@@ -175,4 +175,30 @@ bash.bashrc
  
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/tryag.gif?raw=true)
  
+ نجي لمسألة الحفظ
  
+ تضغط على الكيبورد 
+ 
+ # Ctrl + X 
+
+وبعدين يجيك
+
+# Y or N 
+
+اضغط علي لوحه المفاتيح  المفتاح 
+# Y 
+بمعني نعم
+او yes
+
+كما موضح بالكليب اعلاه
+
+
+
+
+
+
+
+
+
+
+
