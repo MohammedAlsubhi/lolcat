@@ -62,9 +62,13 @@ Ls
 اذهب الي مسار الملف
 
 ونفترض اسم الملف
+
 1.txt
+
 فسنكتب
-lolcat 1.txt
+
+# lolcat 1.txt
+
 
 ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/readtxt.PNG?raw=true)
 
