@@ -57,7 +57,16 @@ Ls
 ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/cal.PNG?raw=true)
 
 
+فرضا انشئنا ملف قابل للقرائه بصيغه تكست على سطح المكتب 
+ونريد قراءه الملف بالوان زاهيه 
+اذهب الي مسار الملف
 
+ونفترض اسم الملف
+1.txt
+فسنكتب
+lolcat 1.txt
+
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/readtxt.PNG?raw=true)
 
  
 
