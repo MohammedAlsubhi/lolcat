@@ -70,10 +70,21 @@ Ls
 # lolcat 1.txt
 
 
+ ونستطيع ايضا أن نطبع اي كلمه في الترمن بالعربي انجليزي اي لغه تنسخهاوتلصقها مهما كانت
+
+
+# echo I ❤ Mr_Robot | lolcat
+
 ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/mr_robot.PNG?raw=true)
 
- ونستطيع ايضا أن نطبع اي كلمه في الترمن بالعربي انجليزي اي لغه تنسخهاوتلصقها مهما كانت
  
-# echo I ❤ Mr_Robot | lolcat
+ ولو حبينا نكبر الاحرف بشكل اعتيادي ونجعل المخرجات ايضا ملونه بالوان زاهية كما تعودنا
  
+ راح نقول
+ 
+ # figlet I Love Mr.Robot | lolcat
+ 
+ 
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/figlet.PNG?raw=true)
+
  
