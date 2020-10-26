@@ -49,6 +49,14 @@ Ls
  
 ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/date.PNG?raw=true)
 
+وكذاللك  التقويم
+
+# cal | lolcat
+
+
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/cal.PNG?raw=true)
+
+
 
 
  
