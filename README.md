@@ -140,5 +140,39 @@ echo بمعني اطبع
 
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/showfigfonts.gif?raw=true)
 
+# نقطه جديدة
+# سنتكلم الان عن تغير الاسم في الترمنل واضافه الوان لها
 
+# NANO نانو 
+نانو محرر صغير ومحبوب جدا. ينسخ الشكل والمظهر هو برنامج او سكربت  مجاني ، وينفذ العديد من 
+
+الميزات 
+
+، مثل: فتح ملفات متعددة ، والتمرير في كل سطر ، والتراجع / الإعادة ، وتلوين بناء الجملة ، وترقيم الأسطر ، وخطوط
+
+كما تعودنا ننزل البكجات والحزم حقت الخطوط
+
+
+# sudo apt-get install figlet
+
+وندخل علي مجلد Etc
+
+
+# cd /etc
+
+ ونستعرض الملفات
+ 
+ # ls
+ 
+ ونبحث عن ملف باسم:
+ 
+bash.bashrc
+
+ننسخ الاسم 
+ ونكتب امر
+ # nano bash.bashrc
+ 
+ 
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/tryag.gif?raw=true)
+ 
  
