@@ -113,12 +113,13 @@ echo بمعني اطبع
 
 # figlet I Love Mr.Robot |  lolcat -a -d 15
 
+15 عدد الثواني او المرات
 
 سيصبح
 
 
 
- ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/i%20love%20mr%20robot.PNG?raw=true)
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/i%20love%20mr%20robot.gif?raw=true)
 
 
 
