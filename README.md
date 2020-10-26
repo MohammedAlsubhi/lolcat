@@ -132,6 +132,13 @@ echo بمعني اطبع
 
 
 
+جميل
+لو نحب نستعرض الخطوط وختار منها خط 
+نجر هذا الامر
+
+# showfigfonts 
+
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/showfigfonts.gif?raw=true)
 
 
  
