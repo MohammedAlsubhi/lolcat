@@ -9,6 +9,13 @@ sudo apt-get install figlet
 
 git clone https://github.com/MohammedAlsubhi/lolcat.git
 
+ ولا ننسي حزم او بكجات الجيم
+ 
+ # gem install lolcat 
+ 
+ 
+ 
+ 
  Kali Linux 
  هذه الاداة سطر من الاوامر لإخراج قوس قزح من الالوان في بيئة الكالي لنكس 
  
@@ -22,15 +29,17 @@ git clone https://github.com/MohammedAlsubhi/lolcat.git
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/screenshot.png)
  
  
- ass/ls lolcat.PNG
- lolcat/ass/ls lolcat.PNG
+ 
 علي سبيل المثال
 
+
  لو كتبنا بالترمنل
- 
+
+
 ونستعرض الملفات في اي مكان راح نستخدم الامر
 
-Ls
+
+# Ls
 
 # ls | lolcat
 ================
