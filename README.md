@@ -35,7 +35,7 @@ Ls
 ================
 
 
-![](https://github.com/MohammedAlsubhi/lolcat/tree/master/ass/lolcat.png)
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/lolcat.PNG?raw=true)
 
 https://github.com/MohammedAlsubhi/lolcat/tree/master/ass/lolcat.png
 
