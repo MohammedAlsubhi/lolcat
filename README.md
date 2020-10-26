@@ -70,7 +70,10 @@ Ls
 # lolcat 1.txt
 
 
-![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/readtxt.PNG?raw=true)
+![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/mr_robot.PNG?raw=true)
 
+ ونستطيع ايضا أن نطبع اي كلمه في الترمن بالعربي انجليزي اي لغه تنسخهاوتلصقها مهما كانت
  
-
+ echo I ❤ Mr_Robot | lolcat
+ 
+ 
