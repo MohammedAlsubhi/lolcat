@@ -8,15 +8,5 @@
 
 ## Installation
 
-### Linux
-
-```bash
-$ sudo snap install lolcat
-```
-
-### Mac
-
-```bash
-$ brew install lolcat
-```
-
+sudo apt-get install figlet
+git clone
