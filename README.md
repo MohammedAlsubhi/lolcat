@@ -172,6 +172,19 @@ bash.bashrc
  ونكتب امر
  # nano bash.bashrc
  
+ وننزل اخر شي تحت كما موضح بالمقطع التالي تحت كلمه
+ 
+ Fi
+ 
+ نكتب السطر
+ 
+# figlet "Mr_Robot"
+
+تقدر تحذف كلمه مستر روبوت وتكتب اي شي بين علامه التنصيص 
+
+حيظهر عندك اول ما تشغل الترمنل 
+
+
  
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/tryag.gif?raw=true)
  
