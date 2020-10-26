@@ -213,6 +213,8 @@ bash.bashrc
 تكبير للبنر بس يكون ملون 
 
 
+figlet  "Mr_Robot" | lolcat
+
 
 
 
