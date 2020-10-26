@@ -86,7 +86,7 @@ Ls
  # figlet I Love Mr.Robot | lolcat
  
  
- ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/figlet.PNG?raw=true)
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/figlet.gif?raw=true)
 
 لكن في حاله تريد ان يتلئلئ النص 500 مره او 10000 مره 
 
