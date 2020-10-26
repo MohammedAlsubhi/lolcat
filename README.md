@@ -104,6 +104,23 @@ echo بمعني اطبع
  
  
 
+الان سندمج امرين معا
+ سندمج امر تكبير الخط والتلئلئ
+ 
+ شاهد
+ 
+
+# figlet I Love Mr.Robot |  lolcat -a -d 15
+
+
+سيصبح
+
+
+
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/i%20love%20mr%20robot.PNG?raw=true)
+
+
+
 
 
  
