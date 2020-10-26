@@ -35,7 +35,7 @@ Ls
 ================
 
 
-![](https://github.com/MohammedAlsubhi/lolcat.lolcat/ass/ass/lolcat.PNG)
+![](https://github.com/MohammedAlsubhi/lolcat/ass/lolcat.PNG)
 
  اتمني الجميع يطبق معايه وكل واحد يشوف الالوان علي اسماء المجلدات كيف اصبحت   جدا مبهجة وممتعة
 
