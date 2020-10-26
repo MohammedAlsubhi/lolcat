@@ -87,4 +87,21 @@ Ls
  
  ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/figlet.PNG?raw=true)
 
+لكن في حاله تريد ان يتلئلئ النص 500 مره او 10000 مره 
+
+فعليك كتابة هذا الامر معي
+
+
+# echo I ❤ Tecmint | lolcat -a -d 500
+
+echo بمعني اطبع 
+
+500 هنا عدد المرات
+
+-a -d هذه رموز الاوان المستخدمه وقابله للزياده او التغير
+
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/shainy.PNG?raw=true)
+
+
+
  
