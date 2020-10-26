@@ -21,6 +21,8 @@ git clone https://github.com/MohammedAlsubhi/lolcat.git
  ![](https://github.com/busyloop/lolcat/raw/master/ass/screenshot.png)
  
  
+ ass/ls lolcat.PNG
+ lolcat/ass/ls lolcat.PNG
 علي سبيل المثال
 
  لو كتبنا بالترمنل
@@ -33,7 +35,7 @@ Ls
 ================
 
 
- ![](https://www.upload.ee/download/12434739/c779ab0ad315181cc8c9/______.PNG)
+![](https://github.com/MohammedAlsubhi/lolcat.lolcat/ass/ls lolcat.PNG)
 
  اتمني الجميع يطبق معايه وكل واحد يشوف الالوان علي اسماء المجلدات كيف اصبحت   جدا مبهجة وممتعة
 
