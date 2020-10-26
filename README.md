@@ -18,7 +18,7 @@ git clone https://github.com/MohammedAlsubhi/lolcat.git
  
  وبشكل ممتع ومبهج
  
- ![](https://github.com/busyloop/lolcat/raw/master/ass/screenshot.png)
+ ![](https://github.com/MohammedAlsubhi/lolcat/blob/master/ass/screenshot.png)
  
  
  ass/ls lolcat.PNG
