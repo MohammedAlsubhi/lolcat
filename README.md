@@ -13,7 +13,14 @@ git clone https://github.com/MohammedAlsubhi/lolcat.git
  
  # gem install lolcat 
  
+  الان جاء دور تنزيل او تنصيب بعض الخطوط الجميلة
  
+ # git clone https://github.com/MohammedAlsubhi/figlet-fonts.git
+ 
+ 
+ وممكن تستعرض الخطوط مثل فوق 
+ 
+ # showfigfonts
  
  
  Kali Linux 
@@ -222,8 +229,9 @@ bash.bashrc
  
  
  
- 
 
+ 
+ 
 
 
 
